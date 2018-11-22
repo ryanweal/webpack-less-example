@@ -1,5 +1,5 @@
 {
-  "name": "webpacky",
+  "name": "webpack-less-example",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -12,7 +12,7 @@
     "css-loader": "^1.0.1",
     "less": "^3.8.1",
     "less-loader": "^4.1.0",
-    "mini-css-extract-plugin": "^0.4.4",
+    "mini-css-extract-plugin": "^0.4.5",
     "style-loader": "^0.23.1",
     "webpack": "^4.26.0"
   },
